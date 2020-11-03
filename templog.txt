@@ -1,0 +1,14 @@
+﻿03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt was qwerty
+03.11.2020 10:02:11 file  was Compression of file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt is comleted. Previous size: 32  compressed size: 10.
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt was created
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt was changed
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt was changed
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).txt was changed
+03.11.2020 10:02:11 file  was C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).gz was moved to C:\Users\User\Desktop\lr2\TargetDir\1 — копия (6).gz.
+03.11.2020 10:02:11 file  was File recovered: C:\Users\User\Desktop\lr2\TargetDir\1 — копия (6).txt
+03.11.2020 10:02:11 file  was C:\Users\User\Desktop\lr2\TargetDir\1 — копия (6).gz was moved to C:\Users\User\Desktop\lr2\TargetDir\Archieve\2020\11\03.11.2020\22\2\11\158\1 — копия (6).gz.
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).gz was created
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29 was changed
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).gz was changed
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29\1 — копия (6).gz was deleted
+03.11.2020 10:02:11 file C:\Users\User\Desktop\lr2\SourceDir\2020\11\29 was changed
