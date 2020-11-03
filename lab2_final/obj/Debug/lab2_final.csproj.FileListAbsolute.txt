@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\bin\Debug\lab2_final.exe.config
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\bin\Debug\lab2_final.exe
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\bin\Debug\lab2_final.pdb
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\obj\Debug\lab2_final.csprojAssemblyReference.cache
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\obj\Debug\lab2_final.exe
+C:\Users\User\Desktop\lr2_s\lab2_final\lab2_final\obj\Debug\lab2_final.pdb
